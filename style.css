@@ -4,6 +4,7 @@ body {
 
 a {
   color: #ff7661; 
+  font: italic small-caps bold 12px/30px Georgia, serif;
 }
 
 h1 {
@@ -33,15 +34,19 @@ li {
 }
 
 #Brain{ 
+  font: italic small-caps bold 12px/30px Georgia, serif;
 }
 
 #Snail{
+  font: italic small-caps bold 12px/30px Georgia, serif;
 }
 
 #Dog{
+  font: italic small-caps bold 12px/30px Georgia, serif;
 }
 
 #bookshop{
+  font: italic small-caps bold 12px/30px Georgia, serif;
 }
 
 .info{
