@@ -12,7 +12,8 @@ h2 {
 
 li {
   color: black;
-  
+  background-color: red;
+  text-align: center;
 }
 
 #Title {
@@ -24,8 +25,9 @@ li {
 }
 
 .annoucment{
-  text-align: center;
+ color: black;
   background-color: red;
+  text-align: center;
 }
 
 #Brain{
