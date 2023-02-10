@@ -10,6 +10,10 @@ h2 {
   color: red;
 }
 
+li {
+  color: red;
+}
+
 #Title {
   text-align: center;
 }
@@ -18,3 +22,6 @@ h2 {
   text-align: center; 
 }
 
+#annoucment{
+  text-align: center;
+}
