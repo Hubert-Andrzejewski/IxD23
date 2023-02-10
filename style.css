@@ -11,7 +11,8 @@ h2 {
 }
 
 li {
-  color: red;
+  color: black;
+  
 }
 
 #Title {
@@ -22,6 +23,7 @@ li {
   text-align: center; 
 }
 
-#annoucment{
+-annoucment{
   text-align: center;
+  background-color: red;
 }
